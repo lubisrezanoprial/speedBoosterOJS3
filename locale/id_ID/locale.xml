@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE locale SYSTEM "../../../../../lib/pkp/dtd/locale.dtd">
+<locale name="id_ID" full_name="Bahasa Indonesia">
+    <message key="plugins.generic.speedBooster.displayName">Speed &amp; Performance Booster</message>
+    <message key="plugins.generic.speedBooster.description">Secara otomatis meminimalkan output HTML, CSS, dan JavaScript untuk meningkatkan kecepatan loading halaman dan performa.</message>
+    <message key="plugins.generic.speedBooster.settings">Pengaturan</message>
+    <message key="plugins.generic.speedBooster.settings.minifyHtml">Minifikasi Output HTML</message>
+    <message key="plugins.generic.speedBooster.settings.minifyHtml.description">Menghapus spasi dan komentar yang tidak perlu dari output HTML. Aman untuk semua halaman.</message>
+    <message key="plugins.generic.speedBooster.settings.minifyCss">Minifikasi CSS Inline</message>
+    <message key="plugins.generic.speedBooster.settings.minifyCss.description">Kompres kode CSS inline dalam tag &lt;style&gt;.</message>
+    <message key="plugins.generic.speedBooster.settings.minifyJs">Minifikasi JavaScript Inline</message>
+    <message key="plugins.generic.speedBooster.settings.minifyJs.description">Kompres kode JavaScript inline dalam tag &lt;script&gt;. Script eksternal tidak terpengaruh.</message>
+    <message key="plugins.generic.speedBooster.settings.saved">Pengaturan berhasil disimpan!</message>
+</locale>

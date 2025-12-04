@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE locale SYSTEM "../../../../../lib/pkp/dtd/locale.dtd">
+<locale name="en_US" full_name="U.S. English">
+    <message key="plugins.generic.speedBooster.displayName">Speed &amp; Performance Booster</message>
+    <message key="plugins.generic.speedBooster.description">Automatically minifies HTML, CSS, and JavaScript output to improve page load speed and performance.</message>
+    <message key="plugins.generic.speedBooster.settings">Settings</message>
+    <message key="plugins.generic.speedBooster.settings.minifyHtml">Minify HTML Output</message>
+    <message key="plugins.generic.speedBooster.settings.minifyHtml.description">Remove unnecessary whitespace and comments from HTML output. Safe for all pages.</message>
+    <message key="plugins.generic.speedBooster.settings.minifyCss">Minify Inline CSS</message>
+    <message key="plugins.generic.speedBooster.settings.minifyCss.description">Compress inline CSS styles within &lt;style&gt; tags.</message>
+    <message key="plugins.generic.speedBooster.settings.minifyJs">Minify Inline JavaScript</message>
+    <message key="plugins.generic.speedBooster.settings.minifyJs.description">Compress inline JavaScript code within &lt;script&gt; tags. External scripts are not affected.</message>
+    <message key="plugins.generic.speedBooster.settings.saved">Settings saved successfully!</message>
+</locale>
